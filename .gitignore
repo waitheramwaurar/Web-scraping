@@ -1,0 +1,9 @@
+# Virtual environments
+venv/
+nigerian_nurses/nurses/
+
+# Output files
+*.xlsx
+
+# Python cache
+**/_pycache__/
